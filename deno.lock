@@ -46,6 +46,7 @@
     "npm:esbuild-wasm@0.25.7": "0.25.7",
     "npm:esbuild@0.25.7": "0.25.7",
     "npm:esbuild@~0.25.5": "0.25.11",
+    "npm:jose@^6.1.0": "6.1.0",
     "npm:preact-render-to-string@^6.5.11": "6.6.2_preact@10.27.2",
     "npm:preact@^10.27.0": "10.27.2",
     "npm:preact@^10.27.2": "10.27.2",
@@ -1400,6 +1401,9 @@
       "integrity": "sha512-ekilCSN1jwRvIbgeg/57YFh8qQDNbwDb9xT/qu2DAHbFFZUicIl4ygVaAvzveMhMVr3LnpSKTNnwt8PoOfmKhQ==",
       "bin": true
     },
+    "jose@6.1.0": {
+      "integrity": "sha512-TTQJyoEoKcC1lscpVDCSsVgYzUDg/0Bt3WE//WiTPK6uOCQC2KZS4MpugbMWt/zyjkopgZoXhZuCi00gLudfUA=="
+    },
     "js-tokens@4.0.0": {
       "integrity": "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="
     },
@@ -1889,6 +1893,7 @@
       "npm:@tailwindcss/vite@^4.1.12",
       "npm:argon2@0.44",
       "npm:daisyui@^5.3.7",
+      "npm:jose@^6.1.0",
       "npm:preact@^10.27.2",
       "npm:tailwindcss@^4.1.10",
       "npm:vite@^7.1.3"

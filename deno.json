@@ -23,6 +23,7 @@
     "argon2": "npm:argon2@^0.44.0",
     "daisyui": "npm:daisyui@^5.3.7",
     "fresh": "jsr:@fresh/core@^2.1.2",
+    "jose": "npm:jose@^6.1.0",
     "preact": "npm:preact@^10.27.2",
     "@preact/signals": "npm:@preact/signals@^2.3.1",
     "@fresh/plugin-vite": "jsr:@fresh/plugin-vite@^1.0.0",
