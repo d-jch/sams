@@ -19,6 +19,7 @@
     "**/_fresh/*"
   ],
   "imports": {
+    "@db/postgres": "jsr:@db/postgres@^0.19.5",
     "daisyui": "npm:daisyui@^5.3.7",
     "fresh": "jsr:@fresh/core@^2.1.2",
     "preact": "npm:preact@^10.27.2",
